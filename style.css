@@ -8,14 +8,14 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #e8f4f8;
+  background-color: #6c09b3;
   color: #333;
   padding: 2rem;
 }
 
 header {
   background-color: #1a1a2e;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 2rem;
   border-radius: 8px;
   margin-bottom: 1.5rem;
@@ -27,7 +27,7 @@ h1 {
 }
 
 main {
-  background-color: white;
+  background-color: rgb(0, 0, 0);
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
