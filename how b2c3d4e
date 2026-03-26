@@ -1,0 +1,17 @@
+[33mcommit 607bb0ceb23b4d4a4c9f9023d0329ef3566cb953[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: mhar-Marx <mhar@aluno.ifnmg.edu.br>
+Date:   Thu Mar 19 19:05:37 2026 +0000
+
+    chore: cria arquivo inicial
+
+[33mcommit 89b74b3956bdb24c43a2858eb07f9ff294a761bd[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mhar-Marx <mhar@aluno.ifnmg.edu.br>
+Date:   Tue Mar 17 01:23:02 2026 +0000
+
+    docs: Coloca meu nome no README.md
+
+[33mcommit 78cb169eed8f830a80e8e9ffa2bf1abd55d09dc7[m
+Author: mhar-Marx <mhar@aluno.ifnmg.edu.br>
+Date:   Mon Mar 16 22:06:01 2026 -0300
+
+    Initial commit
